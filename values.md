@@ -1,6 +1,7 @@
 ---
 title: "Kubernetes Community Values"
 weight: 2
+hight : 5
 description: |
   The Kubernetes Community values are the keystone to the ongoing success of the project. These principles guide every aspect of the Kubernetes project.
 ---
